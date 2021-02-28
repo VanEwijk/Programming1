@@ -1,0 +1,4 @@
+path_land_use : "C:/Users/Anne_/Documents/programming1/Programming1/Data/Bodemgebruik per gemeente.csv"
+path_deceased : "C:/Users/Anne_/Documents/programming1/Programming1/Data/overledenen doodsoorzaken (4 hoofdgroepen), regio.csv"
+path_population_development : "C:/Users/Anne_/Documents/programming1/Programming1/Data/Bevolkingsontwikkeling; regio.csv"
+path_provinces : "C:/Users/Anne_/Documents/programming1/Programming1/Data/provinces.geojson"
